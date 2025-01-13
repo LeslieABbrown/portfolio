@@ -27,8 +27,12 @@ closeBtn.onclick = () => {
 /* Auto Typed */
 function typeText() {
     const texts = [
-        "I am Leslie Brown",
-        "I am Frontend Web Developer.",
+        "I am Leslie Brown...",
+        "I am a Frontend Web Developer",
+        "I create responsive and user-friendly websites",
+        "I turn ideas into visually stunning designs",
+        "I strive to deliver exceptional user experiences..."
+
     ];
     const element = document.getElementById('typed-text');
     let textIndex = 0;

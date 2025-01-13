@@ -357,14 +357,15 @@ footer .service ul a:hover, footer .quick-links ul a:hover{
     opacity: 0.5;
 }
 
-/* Projects */
-.products-wrap .not-yet{
-    width: fit-content;
-    margin: auto;
+.copyright{
+    font-size: 14px;
+    text-align: center;
+    padding: 10px 0;
+    font-weight: 500;
 }
-.products-wrap .not-yet h1{
-    color: #fff;
-    font-size: 22px;
+
+.copyright p{
+    color: teal;
 }
 
 @keyframes footer-animation{
